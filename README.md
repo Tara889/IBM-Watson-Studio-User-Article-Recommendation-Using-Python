@@ -39,6 +39,7 @@ We Use a Machine learning approach and Singular Value Decomposition from numpy t
 
 ## Files and Data descriptions:
 
-user-item-interactions.csv: file contains user interaction.
-articles_community.csv: file contains articles description.
+a. user-item-interactions.csv: file contains user interaction.
+
+b. articles_community.csv: file contains articles description.
 
